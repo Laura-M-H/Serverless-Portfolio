@@ -1,3 +1,3 @@
 # Laura Hibbard's Portfolio
 
-This is my Serverless Portfolio. I'm using AWS and ReactJS. testing
+This is my Serverless Portfolio. I'm using AWS and ReactJS. 
